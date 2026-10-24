@@ -1,0 +1,392 @@
+[
+  {
+    "category": "Ultra-Fast LPUs & Specialized Inference",
+    "name": "GroqCloud",
+    "url": "https://groq.com",
+    "referral_url": "https://console.groq.com",
+    "free_tier": "LPU Ultra-fast Inference (Llama 3.3 70B, DeepSeek R1 Distill, Mixtral) \u2014 30 RPM / 14,400 RPD free tier",
+    "cc_required": false,
+    "check_url": "https://console.groq.com",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 619,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 619ms`"
+    }
+  },
+  {
+    "category": "Ultra-Fast LPUs & Specialized Inference",
+    "name": "Cerebras Inference",
+    "url": "https://cerebras.ai",
+    "referral_url": "https://inference.cerebras.ai",
+    "free_tier": "Wafer-Scale Engine Inference (~2,000 tok/sec) \u2014 1,000,000 free tokens/day + 30 RPM",
+    "cc_required": false,
+    "check_url": "https://inference.cerebras.ai",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 1003,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 1003ms`"
+    }
+  },
+  {
+    "category": "Ultra-Fast LPUs & Specialized Inference",
+    "name": "SambaNova Cloud",
+    "url": "https://sambanova.ai",
+    "referral_url": "https://cloud.sambanova.ai",
+    "free_tier": "SN40L Reconfigurable Dataflow Units \u2014 Free unlimited developer tier for Llama 3.3 70B & Qwen",
+    "cc_required": false,
+    "check_url": "https://cloud.sambanova.ai",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 753,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 753ms`"
+    }
+  },
+  {
+    "category": "Frontier & Edge Serverless Free Tiers",
+    "name": "Google AI Studio (Gemini)",
+    "url": "https://aistudio.google.com",
+    "referral_url": "https://aistudio.google.com",
+    "free_tier": "Gemini 2.0 Flash, Flash-Lite & 1.5 Pro \u2014 15 RPM / 1,000,000 TPM free tier with web search & multimodal",
+    "cc_required": false,
+    "check_url": "https://aistudio.google.com",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 1594,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 1594ms`"
+    }
+  },
+  {
+    "category": "Frontier & Edge Serverless Free Tiers",
+    "name": "GitHub Models",
+    "url": "https://github.com/marketplace/models",
+    "referral_url": "https://github.com/marketplace/models",
+    "free_tier": "Free playground & REST API for GPT-4o, o3-mini, Llama 3.3, and Phi-4 with personal GitHub PAT",
+    "cc_required": false,
+    "check_url": "https://github.com/marketplace/models",
+    "health": {
+      "status": "DEGRADED",
+      "code": 404,
+      "latency_ms": 422,
+      "badge": "![Degraded](https://img.shields.io/badge/Status-HTTP_404-d29922?style=flat-square)"
+    }
+  },
+  {
+    "category": "Frontier & Edge Serverless Free Tiers",
+    "name": "Cloudflare Workers AI",
+    "url": "https://ai.cloudflare.com",
+    "referral_url": "https://workers.cloudflare.com",
+    "free_tier": "10,000 Neurons/day free (~100-200 prompt completions) on global edge network",
+    "cc_required": false,
+    "check_url": "https://ai.cloudflare.com",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 1554,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 1554ms`"
+    }
+  },
+  {
+    "category": "Frontier & Edge Serverless Free Tiers",
+    "name": "Mistral AI (La Plateforme)",
+    "url": "https://mistral.ai",
+    "referral_url": "https://console.mistral.ai",
+    "free_tier": "Free experimentation tier for Codestral, Mistral Small 3, and Pixtral vision",
+    "cc_required": false,
+    "check_url": "https://console.mistral.ai",
+    "health": {
+      "status": "ONLINE",
+      "code": 307,
+      "latency_ms": 5181,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 5181ms`"
+    }
+  },
+  {
+    "category": "Frontier & Edge Serverless Free Tiers",
+    "name": "Cohere",
+    "url": "https://cohere.com",
+    "referral_url": "https://dashboard.cohere.com",
+    "free_tier": "Free trial key for Command R+, Embed v3, and Rerank v3 (1,000 calls/month free)",
+    "cc_required": false,
+    "check_url": "https://dashboard.cohere.com",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 1177,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 1177ms`"
+    }
+  },
+  {
+    "category": "Model Aggregators & Gateways",
+    "name": "OpenRouter",
+    "url": "https://openrouter.ai",
+    "referral_url": "https://openrouter.ai",
+    "free_tier": "Access 35+ Free AI models (DeepSeek R1, Llama 3.3, Qwen 2.5 Coder) at 0 cost via OpenAI-compatible API",
+    "cc_required": false,
+    "check_url": "https://openrouter.ai",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 139,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 139ms`"
+    }
+  },
+  {
+    "category": "Model Aggregators & Gateways",
+    "name": "Together AI",
+    "url": "https://together.ai",
+    "referral_url": "https://api.together.ai",
+    "free_tier": "$5 Free Credit on signup \u2014 run 100+ open-weights models and reasoning engines",
+    "cc_required": false,
+    "check_url": "https://api.together.ai",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 350,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 350ms`"
+    }
+  },
+  {
+    "category": "Model Aggregators & Gateways",
+    "name": "DeepInfra",
+    "url": "https://deepinfra.com",
+    "referral_url": "https://deepinfra.com",
+    "free_tier": "Free signup credit + ultra-cheap serverless LLMs, whisper transcription & embeddings",
+    "cc_required": false,
+    "check_url": "https://deepinfra.com",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 127,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 127ms`"
+    }
+  },
+  {
+    "category": "Model Aggregators & Gateways",
+    "name": "Hugging Face Inference",
+    "url": "https://huggingface.co",
+    "referral_url": "https://huggingface.co",
+    "free_tier": "Serverless Inference API on 150,000+ open-source models with community rate limits",
+    "cc_required": false,
+    "check_url": "https://huggingface.co",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 183,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 183ms`"
+    }
+  },
+  {
+    "category": "Model Aggregators & Gateways",
+    "name": "SiliconFlow",
+    "url": "https://siliconflow.cn",
+    "referral_url": "https://cloud.siliconflow.cn",
+    "free_tier": "Free cloud tokens for DeepSeek R1, V3, and Qwen 2.5 models with sub-second time-to-first-token",
+    "cc_required": false,
+    "check_url": "https://cloud.siliconflow.cn",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 2841,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 2841ms`"
+    }
+  },
+  {
+    "category": "Model Aggregators & Gateways",
+    "name": "Fireworks AI",
+    "url": "https://fireworks.ai",
+    "referral_url": "https://fireworks.ai",
+    "free_tier": "$1 Free credit on signup + ultra-low latency speculative decoding engines",
+    "cc_required": false,
+    "check_url": "https://fireworks.ai",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 548,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 548ms`"
+    }
+  },
+  {
+    "category": "Model Aggregators & Gateways",
+    "name": "Novita AI",
+    "url": "https://novita.ai",
+    "referral_url": "https://novita.ai",
+    "free_tier": "Free sandbox credit on signup for DeepSeek R1, Llama 3, and SDXL inference",
+    "cc_required": false,
+    "check_url": "https://novita.ai",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 418,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 418ms`"
+    }
+  },
+  {
+    "category": "Model Aggregators & Gateways",
+    "name": "Hyperbolic",
+    "url": "https://hyperbolic.xyz",
+    "referral_url": "https://app.hyperbolic.xyz",
+    "free_tier": "Decentralized GPU inference network with free initial testing credits for open models",
+    "cc_required": false,
+    "check_url": "https://app.hyperbolic.xyz",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 1558,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 1558ms`"
+    }
+  },
+  {
+    "category": "Public AI Endpoints (Zero-Key)",
+    "name": "Pollinations.ai",
+    "url": "https://pollinations.ai",
+    "referral_url": "https://pollinations.ai",
+    "free_tier": "100% Free text and image generation API \u2014 No API key, no account, no credit card required",
+    "cc_required": false,
+    "check_url": "https://pollinations.ai",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 162,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 162ms`"
+    }
+  },
+  {
+    "category": "Public AI Endpoints (Zero-Key)",
+    "name": "Puter.js AI API",
+    "url": "https://puter.com",
+    "referral_url": "https://docs.puter.com/ai",
+    "free_tier": "Free browser/Node.js SDK providing programmatic access to Claude 3.5, GPT-4o & Mistral",
+    "cc_required": false,
+    "check_url": "https://docs.puter.com",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 311,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 311ms`"
+    }
+  },
+  {
+    "category": "Embeddings & Semantic Search",
+    "name": "Voyage AI",
+    "url": "https://voyageai.com",
+    "referral_url": "https://dash.voyageai.com",
+    "free_tier": "50,000,000 free embedding tokens on signup (Anthropic's recommended embedding provider)",
+    "cc_required": false,
+    "check_url": "https://dash.voyageai.com",
+    "health": {
+      "status": "DEGRADED",
+      "code": 400,
+      "latency_ms": 1686,
+      "badge": "![Degraded](https://img.shields.io/badge/Status-HTTP_400-d29922?style=flat-square)"
+    }
+  },
+  {
+    "category": "Embeddings & Semantic Search",
+    "name": "Jina AI",
+    "url": "https://jina.ai",
+    "referral_url": "https://jina.ai",
+    "free_tier": "10,000,000 free tokens for Jina Reader (web to markdown), Embeddings v3 & Reranker v2",
+    "cc_required": false,
+    "check_url": "https://jina.ai",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 133,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 133ms`"
+    }
+  },
+  {
+    "category": "Embeddings & Semantic Search",
+    "name": "Mixedbread.ai",
+    "url": "https://mixedbread.ai",
+    "referral_url": "https://mixedbread.ai",
+    "free_tier": "Free tier for state-of-the-art embedding models and cross-encoder rerankers",
+    "cc_required": false,
+    "check_url": "https://mixedbread.ai",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 1365,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 1365ms`"
+    }
+  },
+  {
+    "category": "Audio & Speech AI",
+    "name": "Deepgram",
+    "url": "https://deepgram.com",
+    "referral_url": "https://console.deepgram.com",
+    "free_tier": "$200 Free Credit on signup \u2014 Nova-2 real-time speech-to-text & Aura text-to-speech",
+    "cc_required": false,
+    "check_url": "https://console.deepgram.com",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 667,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 667ms`"
+    }
+  },
+  {
+    "category": "Audio & Speech AI",
+    "name": "ElevenLabs",
+    "url": "https://elevenlabs.io",
+    "referral_url": "https://elevenlabs.io",
+    "free_tier": "10,000 characters/month free tier with ultra-realistic AI voice cloning & generation",
+    "cc_required": false,
+    "check_url": "https://elevenlabs.io",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 158,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 158ms`"
+    }
+  },
+  {
+    "category": "Audio & Speech AI",
+    "name": "Cartesia",
+    "url": "https://cartesia.ai",
+    "referral_url": "https://play.cartesia.ai",
+    "free_tier": "100,000 free characters on signup \u2014 Sonic state-of-the-art sub-100ms voice generation",
+    "cc_required": false,
+    "check_url": "https://play.cartesia.ai",
+    "health": {
+      "status": "DEGRADED",
+      "code": 429,
+      "latency_ms": 186,
+      "badge": "![Degraded](https://img.shields.io/badge/Status-HTTP_429-d29922?style=flat-square)"
+    }
+  },
+  {
+    "category": "Image & Media Generation",
+    "name": "Fal.ai",
+    "url": "https://fal.ai",
+    "referral_url": "https://fal.ai",
+    "free_tier": "$10 Free inference credit on signup for FLUX.1, SD3.5, and generative video APIs",
+    "cc_required": false,
+    "check_url": "https://fal.ai",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 195,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 195ms`"
+    }
+  },
+  {
+    "category": "Image & Media Generation",
+    "name": "Replicate",
+    "url": "https://replicate.com",
+    "referral_url": "https://replicate.com",
+    "free_tier": "Free community trial quota to run open-source diffusion and computer vision models",
+    "cc_required": false,
+    "check_url": "https://replicate.com",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 1326,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 1326ms`"
+    }
+  }
+]
