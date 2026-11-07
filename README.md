@@ -97,4 +97,11 @@ Discovered a generous new AI inference provider, embedding API, or open-weight e
 
 ---
 
+### 🌐 Part of the @dhaulagani Developer Infrastructure & AI Suite
+- ⚡ [awesome-free-developer-infra](https://github.com/dhaulagani/awesome-free-developer-infra) — Live-monitored free-tier cloud VPS, serverless DBs & developer tools.
+- 🤖 [awesome-free-ai-apis](https://github.com/dhaulagani/awesome-free-ai-apis) — Free AI inference APIs, reasoning models (DeepSeek R1, Llama 3.3) & endpoints.
+- 🧠 [awesome-sentient-ai](https://github.com/dhaulagani/awesome-sentient-ai) — Open-source cognitive architectures, episodic memory & world models.
+- 📓 [awesome-free-cloud-notebooks](https://github.com/dhaulagani/awesome-free-cloud-notebooks) — Free cloud Jupyter notebooks, GPU servers & Colab/Kaggle alternatives.
+- ⚡ [awesome-webgpu-ai](https://github.com/dhaulagani/awesome-webgpu-ai) — In-browser WebGPU runtimes, client-side LLMs & zero-server ML.
+
 **Maintained with ❤️ by [@dhaulagani](https://github.com/dhaulagani)** | Support open-source AI tooling via [GitHub Sponsors](https://github.com/sponsors/dhaulagani).
