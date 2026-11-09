@@ -104,5 +104,6 @@ Discovered a generous new AI inference provider, embedding API, or open-weight e
 - 📓 [awesome-free-cloud-notebooks](https://github.com/dhaulagani/awesome-free-cloud-notebooks) — Free cloud Jupyter notebooks, GPU servers & Colab/Kaggle alternatives.
 - ⚡ [awesome-webgpu-ai](https://github.com/dhaulagani/awesome-webgpu-ai) — In-browser WebGPU runtimes, client-side LLMs & zero-server ML.
 - 🎙️ [powerful-realtime-voice-ai](https://github.com/dhaulagani/powerful-realtime-voice-ai) — Full-duplex speech-to-speech (S2S) models, neural TTS & WebRTC agents.
+- ⚡ [powerful-agent-skills](https://github.com/dhaulagani/powerful-agent-skills) — The fastest-trending AI agent skills, harnesses & self-installing registry.
 
 **Maintained with ❤️ by [@dhaulagani](https://github.com/dhaulagani)** | Support open-source AI tooling via [GitHub Sponsors](https://github.com/sponsors/dhaulagani).
