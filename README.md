@@ -7,6 +7,16 @@
 
 ---
 
+## 🌟 Featured Partner & Sponsored Listings
+
+| Partner | Product & Capability | Promotion Tier | Claim Sponsored Spot |
+| :--- | :--- | :--- | :--- |
+| **[Your AI / Cloud Platform Here]** | Feature your AI API, GPU Cloud, or LLM dev-tool directly to 10,000+ developers & autonomous agents visiting this directory monthly. | Featured Partner ($149 / month) | [**Book Featured Placement ($149) ↗**](https://paypal.me/dhaulagani/149USD) |
+
+> 💼 **Advertise Your Dev-Tool / API**: To secure a featured placement, verify benchmark latency, or submit an enterprise listing, contact `dhaulagani@gmail.com` or book directly via [PayPal](https://paypal.me/dhaulagani/149USD).
+
+---
+
 ### 💡 Why this repository exists
 Modern AI agents, side-projects, and autonomous systems require reliable LLM inference, but proprietary API costs accumulate rapidly.
 This repository runs an **autonomous verification engine** that actively tests each provider daily, confirming that free tiers, free RPM quotas, and developer endpoints remain active, responsive, and ready for production use without sudden billing traps.
@@ -106,4 +116,4 @@ Discovered a generous new AI inference provider, embedding API, or open-weight e
 - 🎙️ [powerful-realtime-voice-ai](https://github.com/dhaulagani/powerful-realtime-voice-ai) — Full-duplex speech-to-speech (S2S) models, neural TTS & WebRTC agents.
 - ⚡ [powerful-agent-skills](https://github.com/dhaulagani/powerful-agent-skills) — The fastest-trending AI agent skills, harnesses & self-installing registry.
 
-**Maintained with ❤️ by [@dhaulagani](https://github.com/dhaulagani)** | Support open-source AI tooling via [GitHub Sponsors](https://github.com/sponsors/dhaulagani).
+**Maintained with ❤️ by [@dhaulagani](https://github.com/dhaulagani)** | [GitHub Sponsors](https://github.com/sponsors/dhaulagani) | [Commercial Sponsorship & Featured Inquiries](mailto:dhaulagani@gmail.com) | [Instant PayPal Booking](https://paypal.me/dhaulagani/149USD)
